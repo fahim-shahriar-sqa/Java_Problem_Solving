@@ -2,7 +2,7 @@ package fahim.shahriar;
 
 import java.util.Scanner;
 
-public class AreaOfCircle {
+public class Problem_2_AreaOfACircle {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the radius : " );

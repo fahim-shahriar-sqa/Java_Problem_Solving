@@ -2,7 +2,7 @@ package fahim.shahriar;
 
 import java.util.Scanner;
 
-public class IntegerOrDecimalCheck {
+public class Problem_1_IntegerOrDecimalCheck {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter a number : ");
